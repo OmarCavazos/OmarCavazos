@@ -23,8 +23,8 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-  <p>Automation is my passion — here's a snapshot of my commit activity and contributions across personal and professional projects.</p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarCavazos&theme=react-dark" alt="GitHub Contribution Grid" />
+  <p>Automation is my passion — here's a snapshot of my commit activity and contributions across personal and professional projects.</p>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarCavazos&theme=github_dark" alt="GitHub Activity by Month" />  
 </div>
 
 <h2 align="center" class="section-heading">💻 Tools & Technologies</h2>
@@ -45,7 +45,7 @@
 <p>Here’s a look at my GitHub activity and stats.</p>
  <table align="center" width="100%" height="100%">
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarCavazos&theme=github_dark" alt="GitHub Stats"/></td>
+       <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarCavazos&theme=react-dark" alt="GitHub Contribution Grid" /><td>
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarCavazos&theme=merko" alt="Contribution Streak"/></td>
     </tr>
  </table>
